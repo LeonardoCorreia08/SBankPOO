@@ -1,6 +1,6 @@
 # Desafio de Projeto DIO
 
-## Upgrade da Crianção do Sistema Bancário com Python
+## Upgrade da Crianção do Sistema Bancário POO com Python
 
 ### Atualização e Aprimoramento do Desafio de projeto da DIO, onde foi solicitado criar um applicativo bancário com as seguintes especificidades:
 
